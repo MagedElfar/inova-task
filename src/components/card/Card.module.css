@@ -1,0 +1,31 @@
+.card {
+    padding: 5px 15px 10px;
+    border-bottom: 2px solid #fff !important;
+    background-color: #F7F7F7;
+}
+
+.card:last-of-type {
+    border-bottom: none;
+}
+
+.info h4{
+    font-size: 22px;
+    line-height: 30px;
+    color: #0F044E;
+    margin-bottom: 0px;
+    font-family: "CenturyGothic-Bold";
+}
+
+.img{
+padding-right: 15PX;
+}
+
+.info p{
+    color: #333;
+    margin-bottom: 0;
+    font-size: 14px;
+}
+
+.dir i{
+    font-size: 20px;
+}

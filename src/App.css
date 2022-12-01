@@ -1,0 +1,47 @@
+
+
+.gm-style-iw{
+  width: 490px
+}
+
+.gm-style .gm-style-iw-c {
+  padding: 20px 20px 35px !important;
+}
+
+.gm-style .gm-style-iw{
+  overflow: visible !important;
+}
+
+button.gm-ui-hover-effect {
+  right: -10px !important;
+  left: unset !important;
+  background: #C73939 !important;
+  top: -12px !important;
+  display: flex !important;
+  height: 25px !important;
+  width: 25px !important;
+  align-items: center;
+  border-radius: 50%;
+}
+
+.gm-ui-hover-effect>span {
+  background-color: #fff !important;
+  margin: auto !important;
+}
+
+.gym-nav .active ,
+.gym-nav button:hover{
+  color: #5614cf !important;
+  cursor: pointer;
+  font-weight: 600;
+  text-decoration: none;
+  border: none !important;
+  border-bottom: 4px solid #5614cf !important;
+
+}
+
+.gym-nav  a{
+  padding: 25px 0;
+  display: block;
+  text-decoration: none;
+}

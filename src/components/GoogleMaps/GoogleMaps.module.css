@@ -1,0 +1,32 @@
+.title h3{
+    color:#000;
+    font-size: 34px;
+    font-weight: 700;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 4.25px;
+    font-family: concon,sans-serif!important;
+    -webkit-font-smoothing: antialiased;
+
+}
+
+.location{
+    margin-top: 15px;
+}
+
+.location p{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    font-family: concon,sans-serif!important;
+    margin-left: 8px;
+}
+
+.img img{
+    max-width: 100%;
+    /* max-height: 110px; */
+    object-fit: cover;
+}

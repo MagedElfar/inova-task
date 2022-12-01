@@ -1,0 +1,8 @@
+.coordinates_container{
+    height: 100vh;
+    overflow: hidden;
+}
+
+.coordinates{
+    overflow: auto;
+}
